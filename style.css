@@ -1,0 +1,30 @@
+#table {
+  width: 700px;
+  height: 400px;
+  background-color: green;
+  border: 10px solid sienna;
+  border-radius: 200px;
+}
+
+.row {
+  position: relative;
+  height: 80px;
+  top: 10px;
+  left: 100px;
+  margin: 10px;
+}
+
+.card {
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 55px;
+  height: 80px;
+  background-color: tan;
+  display: inline-block;
+  margin-right: 5px;
+  font: bold 20px "Comic Sans MS";
+}
+
+.white {
+  background-color: white;
+}
